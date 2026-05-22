@@ -3,6 +3,11 @@
 ## Overview
 **BJ** is a web platform designed for competitive programming. It provides users with a space to solve algorithmic challenges, track their progress, and compete with others. The platform is built using **Nest.js** on the backend and **Vue.js** on the frontend, offering a robust and dynamic user experience.
 
+## Authors
+**Oleksiy Vereskul**
+**Staniclah Khil**
+**Oleksandr Polonkyi**
+
 ## Features
 - **User Registration and Authentication**: Secure login and registration system.
 - **Problem Solving**: A list of programming challenges for users to solve.
